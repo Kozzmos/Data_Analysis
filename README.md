@@ -2,6 +2,8 @@
 
 This repository contains tools and examples for performing data analysis using Python. The main libraries used are `pandas` and `numpy`, with additional support from `matplotlib` for plotting and `openpyxl` for Excel file operations.
 
+In the data directory, there is a file named youtube-ing.rar don't forget to extract it from rar before using it.
+
 This repository is still a work in progress
 
 ## Features
